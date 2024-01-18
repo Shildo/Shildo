@@ -5,7 +5,7 @@ ___
 
 #### My skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,nodejs,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,nodejs,nextjs,tailwind)](https://skillicons.dev)
 
 <!--
 **Shildo/Shildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
