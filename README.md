@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone, i'm Guido Marzocchini and i like to code. I'm a Front-end developer 
 
 <!--
 **Shildo/Shildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
