@@ -1,4 +1,11 @@
-### Hi everyone, i'm Guido Marzocchini and i like to code. I'm a Front-end developer 
+### Hi everyone 👋, i'm Guido Marzocchini and i like to code. I'm a Front-end developer from Argentina 🇦🇷
+___
+
+#### If you want to get in touch with me, don't hesitate to sent me an [Email](mailto:guido.marzocchini@gmail.com)
+
+#### My skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,nodejs,nextjs)](https://skillicons.dev)
 
 <!--
 **Shildo/Shildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
