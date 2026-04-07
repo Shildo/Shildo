@@ -1,7 +1,9 @@
-### Hi everyone 👋, i'm Guido Marzocchini and i like to code. I'm a Front-end developer from Argentina 🇦🇷
+### Hi everyone 👋, i'm Guido Marzocchini and i like to code. I'm a Full-Stack developer from Argentina 🇦🇷
 ___
 
 #### If you want to get in touch with me, don't hesitate to sent me an [Email](mailto:guido.marzocchini@gmail.com)
+
+#### Or if you want to check out my portfolio here it is (marzocchini.vercel.app)
 
 #### My skills
 
