@@ -5,7 +5,7 @@ ___
 
 #### Or if you want to check out my portfolio here it is [marzocchini.vercel.app](https://marzocchini.vercel.app)
 
-#### My skills
+#### Here are some of my skills
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,react,nodejs,nextjs,tailwind,sass)](https://skillicons.dev)
 
